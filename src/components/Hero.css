@@ -1,0 +1,112 @@
+.hero-container {
+  width: 1125px;
+  height: 613px;
+  margin-top: 152px;
+  margin-left: 157px;
+  display: flex;
+}
+
+.containeer-text {
+  width: 595px;
+  height: 613px;
+  display: block;
+}
+
+.text-header {
+  width: 595px;
+  height: 306px;
+  font-family: Poppins;
+  font-weight: 800;
+  font-size: 108px;
+  line-height: 102px;
+  letter-spacing: 0%;
+}
+
+.description {
+  width: 404px;
+  height: 91px;
+  padding-top: 18px;
+  padding-left: 10px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #5a5959;
+}
+
+.shop-category {
+  width: 331px;
+  height: 41px;
+  gap: 40px;
+  display: flex;
+}
+
+button {
+  width: 150px;
+  height: 41px;
+  gap: 10px;
+  padding-top: 6px;
+  padding-right: 16px;
+  padding-bottom: 6px;
+  padding-left: 16px;
+
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+#shop-now {
+  background-color: #d01c28;
+
+  color: #fff;
+}
+
+#category {
+  background-color: #fff;
+  color: #5a5959;
+}
+
+.also-shop-on {
+  width: 131px;
+  height: 67;
+  gap: 16px;
+  margin-top: 24px;
+}
+#also-text {
+  width: 131px;
+  height: 19px;
+  
+
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #5A5959;
+}
+
+#also-logos {
+  width: 80px;
+  height: 32px;
+  gap: 16px;
+  display: flex;
+}
+#also-logos img {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  padding-top: 12px;
+}
+
+.shoe-image {
+  box-shadow: 32px 32px 24px 0px #0000004d;
+}
+
+.image-shoe {
+  width: 530px;
+  height: 487px;
+  object-fit: cover;
+}
