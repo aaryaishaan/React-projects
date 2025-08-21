@@ -1,0 +1,61 @@
+ button{
+    display: flex;
+ }
+
+
+
+.primary-button{
+
+
+min-width: 220px;
+height: 44px;
+opacity: 1;
+gap: 10px;
+border-radius: 5px;
+padding-top: 10px;
+padding-right: 18px;
+padding-bottom: 10px;
+padding-left: 18px;
+justify-content: center;
+cursor: pointer;
+
+background-color: black;
+color: white;
+
+font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+.outline-button{
+
+width: 100%;
+margin-top: 16px;
+height: 44px;
+opacity: 1;
+gap: 10px;
+border: 1px solid black;
+border-radius: 5px;
+padding-top: 10px;
+padding-right: 18px;
+padding-bottom: 10px;
+padding-left: 18px;
+justify-content: center;
+cursor: pointer;
+
+background-color: white;
+color: black;
+
+font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}

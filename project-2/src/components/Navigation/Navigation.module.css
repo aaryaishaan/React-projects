@@ -1,0 +1,16 @@
+nav ul{ display: flex;
+  
+  /* display: flex; */
+ 
+}
+
+.nav-container{
+  display: flex;
+  width: 1440px;
+height: 72px;
+
+opacity: 1;
+
+}
+
+
